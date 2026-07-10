@@ -16,13 +16,3 @@ A modern, enterprise-grade mini CRM built with React, Tailwind CSS, Node.js, Exp
 - Frontend: React + Vite + Tailwind CSS + Framer Motion
 - Backend: Node.js + Express + MongoDB + JWT
 
-## Getting Started
-1. Install dependencies:
-   - npm install
-2. Create server environment file:
-   - cp server/.env.example server/.env
-3. Start the application:
-   - npm run dev
-
-## Default Admin
-Use the credentials from your environment variables or the defaults in the backend config.
